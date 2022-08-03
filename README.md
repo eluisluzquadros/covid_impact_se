@@ -16,9 +16,9 @@ For this challenge, we proposed an analytics mindset and an analytics pipeline t
     4. merge   traditional datasets
     5. join grey and traditional literature
 2. Screening
-    1 screening grey and traditional literature (manual process)
-    2 kappa statistics
-    3 get pdf multivocal
+    1. screening grey and traditional literature (manual process)
+    2. kappa statistics
+    3. get pdf multivocal
 3.
     1. pnl grey literature
     2. pnl traditional literature
