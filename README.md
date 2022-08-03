@@ -16,15 +16,14 @@ For this challenge, we proposed an analytics mindset and an analytics pipeline t
     4. merge   traditional datasets
     5. join grey and traditional literature
 2. Screening
-    1. screening grey and traditional literature (manual process)
-    2. get pdf
-3. kappa
-    
+    1.1 screening grey and traditional literature (manual process)
+    2.2 kappa statistics
+    2.3 get pdf multivocal
 3.
-    1. pnl grey
-    2. pnl white
+    1. pnl grey literature
+    2. pnl traditional literature
     3. pnl multivocal
-4. eda multivocal categories & dimensions
-
+    4. eda multivocal
+    
 ## Benefits
 Save of time, resources, computational enforcement, automation are some benefits of this methodology. This methodology is generalized, then you can test in other areas of the domain and create your own cases of studies.
