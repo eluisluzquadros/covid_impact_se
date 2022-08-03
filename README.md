@@ -20,7 +20,7 @@ For this challenge, we proposed an analytics mindset and an analytics pipeline t
     2. kappa statistics
     3. get pdf 
     4. get fulltext from pdf
-3. Dataviz with Natural language process (NLP)
+3. Dataviz
     1. nlp grey literature
     2. nlp traditional literature
     3. nlp multivocal
